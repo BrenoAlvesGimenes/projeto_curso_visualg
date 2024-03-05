@@ -1,2 +1,2 @@
-# projeto_curso_visualg
-Projeto criado para escrevel portugol no visualg
+# projeto_curso_algoritimo
+Curso Udemy Algoritimo e Lógica: JavaScript
